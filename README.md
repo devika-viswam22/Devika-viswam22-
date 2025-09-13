@@ -1,3 +1,5 @@
-# Devika-viswam22-
-<h1 align="center">A passionate devOps engineer from India</h1>h3>
+👋Hi, I'm Devika Viswam V
+🎓 Btech.ECE students 
+🐍 learning python
+📖 Tech Blog Reader
 
